@@ -24,6 +24,7 @@ Below is a basic overview of the project structure:
 └── .gitignore
 ```
 
+poggers
 ## Running app locally
 
 Before you start, you'll need to install [NodeJS](https://nodejs.org/en/download/) and [create a Discord app](https://discord.com/developers/applications) with the proper permissions:
